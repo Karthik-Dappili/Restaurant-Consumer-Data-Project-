@@ -1,2 +1,2 @@
-# Restaurant-Consumer-Data-Project-
-MySQL Project
+# Restaurant-Consumer Analytics-Project-
+# MySQL Project
